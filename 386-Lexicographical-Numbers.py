@@ -1,4 +1,4 @@
 class Solution:
     def lexicalOrder(self, n: int) -> List[int]:
-        return list(map(int,sorted([str(i+1) for i in range(n)])))
+        return sorted([i+1 for i in range(n)],key = lambda x : str(x))
         
