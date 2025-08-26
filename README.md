@@ -9,3 +9,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0620-not-boring-movies) |
+<!---LeetCode Topics End-->
