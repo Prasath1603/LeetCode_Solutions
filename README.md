@@ -19,16 +19,24 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0676-implement-magic-dictionary](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0676-implement-magic-dictionary) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0676-implement-magic-dictionary](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0676-implement-magic-dictionary) |
 ## Design
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0676-implement-magic-dictionary](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0676-implement-magic-dictionary) |
 ## Trie
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0676-implement-magic-dictionary](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0676-implement-magic-dictionary) |
+## Hash Table
+|  |
+| ------- |
+| [0676-implement-magic-dictionary](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0676-implement-magic-dictionary) |
 <!---LeetCode Topics End-->
