@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0676-implement-magic-dictionary) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -39,4 +40,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0676-implement-magic-dictionary](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0676-implement-magic-dictionary) |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
+## Counting
+|  |
+| ------- |
+| [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
 <!---LeetCode Topics End-->
