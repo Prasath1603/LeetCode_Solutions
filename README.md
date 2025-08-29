@@ -24,6 +24,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0676-implement-magic-dictionary) |
 ## Design
@@ -49,4 +50,20 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
