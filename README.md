@@ -66,4 +66,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Array
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
