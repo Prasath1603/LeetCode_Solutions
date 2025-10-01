@@ -77,4 +77,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
+## Math
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/1642-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
