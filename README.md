@@ -44,6 +44,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0676-implement-magic-dictionary](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0676-implement-magic-dictionary) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3403-minimum-substring-partition-of-equal-character-frequency](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/3403-minimum-substring-partition-of-equal-character-frequency) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
@@ -73,6 +75,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1127-last-stone-weight](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/1127-last-stone-weight) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Prasath1603/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
